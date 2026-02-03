@@ -21,7 +21,7 @@ export default function AboutSection() {
 					</p>
 
 					<p>
-						We take the brands you love and embroider your logo on the material. Whether it's a hoodie, hat, custom
+						We take the brands you love and embroider your logo on the material. Whether it&apos;s a hoodie, hat, custom
 						t-shirt or a bag - we produce everything in-house to be able to offer low wholesale prices.
 					</p>
 

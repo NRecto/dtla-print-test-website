@@ -56,7 +56,7 @@ export default function WaitlistForm() {
 					<div className="bg-green-50 border-2 border-green-200 p-8 rounded-lg shadow-lg text-center">
 						<div className="text-green-600 text-5xl mb-4">✓</div>
 						<h3 className="text-2xl font-bold text-gray-900 mb-2">Thank You!</h3>
-						<p className="text-gray-700 mb-4">You've been added to our waitlist. We'll be in touch soon!</p>
+						<p className="text-gray-700 mb-4">You&apos;ve been added to our waitlist. We&apos;ll be in touch soon!</p>
 						<button
 							onClick={() => setSubmitted(false)}
 							className="text-gray-900 hover:text-gray-700 font-medium underline"
